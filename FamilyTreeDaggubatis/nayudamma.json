@@ -1,0 +1,17 @@
+{
+    "id": "nayudamma",
+    "name": "nayudamma",
+    "gender": "male",
+    "parent_id": "*",
+    "relationship": "root",
+    "children": [
+      {
+        "id": "ramaswamy",
+        "name": "ramaswamy",
+        "gender": "male",
+        "relationship": "son",
+        "wife": "Unknown"
+      }
+    ]
+  }
+  

@@ -1,0 +1,14 @@
+{
+    "name": "rangamma",
+    "gender": "female",
+    "parent_id":"paparao",
+    "relationship": "daughter",
+    "spouse": "Unknown",
+    "children": [
+      {
+        "name": "anuradha",
+        "gender": "female",
+        "relationship": "daughter"
+      }
+    ]
+  }

@@ -1,0 +1,23 @@
+{
+    "id": "sudhakar",
+    "name": "sudhakar",
+    "gender": "male",
+    "parent_id": "hariprasad",
+    "relationship": "son",
+    "wife": "swapna",
+    "children": [
+      {
+        "id": "mahalakshmi",
+        "name": "mahalakshmi",
+        "gender": "female",
+        "relationship": "daughter"
+      },
+      {
+        "id": "bramhani",
+        "name": "bramhani",
+        "gender": "female",
+        "relationship": "daughter"
+      }
+    ]
+  }
+  

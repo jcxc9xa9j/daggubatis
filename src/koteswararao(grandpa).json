@@ -1,0 +1,43 @@
+  {
+    "name": "koteswararao",
+    "gender": "male",
+    "parent_id": "ramanna Chowdary",
+    "relationship": "son",
+    "wife": "Nagendramma",
+    "children": [
+      {
+        "name": "ramanna",
+        "gender": "male",
+        "relationship": "son",
+        "children": [
+          {
+            "name": "teja",
+            "gender": "male",
+            "relationship": "son"
+          },
+          {
+            "name": "vamsi",
+            "gender": "male",
+            "relationship": "son"
+          }
+        ]
+      },
+      {
+        "name": "lakshmi",
+        "gender": "female",
+        "relationship": "daughter",
+        "children": [
+          {
+            "name": "raghavendra",
+            "gender": "male",
+            "relationship": "son"
+          },
+          {
+            "name": "daughter",
+            "gender": "female",
+            "relationship": "daughter"
+          }
+        ]
+      }
+    ]
+  }

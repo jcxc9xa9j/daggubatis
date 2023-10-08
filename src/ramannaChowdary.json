@@ -1,0 +1,61 @@
+{
+    "id": "ramanna Chowdary",
+    "name": "ramanna Chowdary",
+    "gender": "male",
+    "parent_id": "ramaswamy",
+    "relationship": "son",
+    "wife": "bapamma",
+    "alias": "Pappu Ramanna",
+    "children": [
+      {
+        "id": "paparao",
+        "name": "paparao",
+        "gender": "male",
+        "relationship": "son",
+        "wife": "anasuya"
+      },
+      {
+        "id": "anjayya",
+        "name": "anjayya",
+        "gender": "male",
+        "relationship": "son",
+        "wife": "Unknown"
+      },
+      {
+        "id": "subbarao",
+        "name": "subbarao",
+        "gender": "male",
+        "relationship": "son",
+        "wife": "Unknown"
+      },
+      {
+        "id": "venkatewsarlu",
+        "name": "venkatewsarlu",
+        "gender": "male",
+        "relationship": "son",
+        "wife": "Unknown"
+      },
+      {
+        "id": "ilamma",
+        "name": "ilamma",
+        "gender": "female",
+        "relationship": "daughter",
+        "wife": "Unknown"
+      },
+      {
+        "id": "vimalamma",
+        "name": "vimalamma",
+        "gender": "female",
+        "relationship": "daughter",
+        "wife": "Unknown"
+      },
+      {
+        "id": "nagarattamma",
+        "name": "nagarattamma",
+        "gender": "female",
+        "relationship": "daughter",
+        "wife": "Unknown"
+      }
+    ]
+  }
+  

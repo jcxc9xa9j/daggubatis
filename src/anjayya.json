@@ -1,0 +1,45 @@
+{
+    "name": "anjayya",
+    "gender": "male",
+    "parent_id": "ramanna Chowdary",
+    "relationship": "son",
+    "wife": "Unknown",
+    "children": [
+      {
+        "name": "ramanna",
+        "gender": "male",
+        "relationship": "son",
+        "wife": "ratnamba",
+        "children": [
+          {
+            "name": "karthik",
+            "gender": "male",
+            "relationship": "son"
+          },
+          {
+            "name": "anitha",
+            "gender": "female",
+            "relationship": "daughter"
+          }
+        ]
+      },
+      {
+        "name": "ramanna",
+        "gender": "male",
+        "relationship": "son",
+        "wife": "XXX",
+        "children": [
+          {
+            "name": "Harsha",
+            "gender": "male",
+            "relationship": "son"
+          },
+          {
+            "name": "AAA",
+            "gender": "female",
+            "relationship": "daughter"
+          }
+        ]
+      }
+    ]
+  }

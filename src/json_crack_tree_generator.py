@@ -23,11 +23,11 @@ html_code = f"""<!DOCTYPE html>
     </style>
 </head>
 <body>
-    <!-- JSONCrack Embed iframe -->
-    <iframe id="jsoncrackEmbed" src="https://jsoncrack.com/widget"></iframe>
+    <!-- Daggubatis iframe -->
+    <iframe id="daggubatis" src="https://jsoncrack.com/widget"></iframe>
 
     <script>
-        const jsonCrackEmbed = document.querySelector("iframe");
+        const daggubatis = document.querySelector("iframe");
 
         // Sample JSON data (replace this with your JSON data)
         const json_data = {json_data};
@@ -37,7 +37,7 @@ html_code = f"""<!DOCTYPE html>
 
         // Function to update iframe dimensions when the window is resized
         function updateIframeDimensions() {{
-            jsonCrackEmbed.style.height = window.innerHeight + "px";
+            daggubatis.style.height = window.innerHeight + "px";
         }}
 
         // Initial iframe dimensions
@@ -45,7 +45,7 @@ html_code = f"""<!DOCTYPE html>
 
         // Send the JSON data to the embedded JSONCrack iframe
         window.addEventListener("message", (event) => {{
-            jsonCrackEmbed.contentWindow.postMessage({{ json: jsonData }}, "*");
+            daggubatis.contentWindow.postMessage({{ json: jsonData }}, "*");
         }});
 
         // Update iframe dimensions when the window is resized

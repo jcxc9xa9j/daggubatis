@@ -9,7 +9,7 @@ html_code = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>JSONCrack Embed</title>
+    <title>Daggibatis</title>
     <style>
         /* Set the iframe to fill the entire screen */
         iframe {{
